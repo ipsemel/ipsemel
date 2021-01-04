@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a project who i named "GMSCC" 
+- 🔭 I’m currently working on a project named "GMSCC" 
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate: yes
 - 🤔 I’m looking for help with chinnesse x76 pc gamer bulding
