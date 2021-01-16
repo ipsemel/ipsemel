@@ -7,5 +7,3 @@
 - 😄 Pronouns: they
 - ⚡ Fun fact: noob 
 ![](uncle/1.jpg)
-
-
