@@ -1,3 +1,4 @@
+![](uncle/1.jpg)
 ### Hi there 👋
 - 🌱 I’m currently learning c++, py
 - 👯 I’m looking to collaborate: yesno
